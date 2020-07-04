@@ -1,3 +1,33 @@
 # Coding-Question
 
 1. SubArrayWithGivenSum
+2. BFS.java
+3. BinarySearchIterative.java
+4. BinarySearchRecursive.java
+5. CountNoOfIslands.java
+6. CountTreesInForest.java
+7. DFS.java
+8. FIndMedianOfSortedArray.java
+9. FindAllAnagram.java
+10. FindDuplicate.java
+11. FindMedian.java
+12. JumpGame.java
+13. JumpGame2. .java
+14. LargestDivisibleSet.java
+15. LongestCommonSubsequence.java
+16. LongestPalindromeSubstring.java
+17. MaxSumSubarray.java
+18. MergeSortedList.java
+19. NQueen.java
+20. NQueenCount.java
+21. NQueenLeetCode.java
+22. QuickSort.java
+23. RandomizedSet.java
+24. RatInMaze.java
+25. SearchInsertPosition.java
+26. SortBinaryInSinglePass.java
+27. StockBuySell.java
+28. SubArraySum.java
+29. SubArraySumEqualsK.java
+30. ThreeSum.java
+31. Trie.java
